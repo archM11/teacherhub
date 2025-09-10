@@ -71,7 +71,7 @@ export function StudentModal({ isOpen, selectedStudent, onClose, isSpinning }: S
               <h2 className="text-3xl font-bold text-green-600 mb-2">
                 {selectedStudent.name}
               </h2>
-              <p className="text-lg text-gray-600">You're up!</p>
+              <p className="text-lg text-gray-600">You&apos;re up!</p>
             </>
           ) : (
             <>

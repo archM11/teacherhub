@@ -82,7 +82,7 @@ export function RandomCaller({
               "text-sm",
               classroom.settings.allowDuplicates ? "text-gray-400" : "text-gray-700"
             )}>
-              Prioritize students who haven't been called
+              Prioritize students who haven&apos;t been called
             </span>
           </label>
         </div>
